@@ -27,6 +27,9 @@
 *.i*86
 *.x86_64
 *.hex
+client
+client-local
+groupwork
 
 # Debug files
 *.dSYM/
